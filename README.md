@@ -1,1 +1,1 @@
-# weak-supervision
+# Weak Supervision
