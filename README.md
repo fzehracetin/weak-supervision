@@ -1,4 +1,4 @@
-# Weak Supervision
+# Weak Supervision for News Classification
 
 In this project, we are using Snorkel Python to work with ML algorithms on an unlabeled text dataset. The unlabeled dataset is labeled with labeling functions that we build.
 
